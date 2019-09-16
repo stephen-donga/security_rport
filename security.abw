@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="191" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Sep 16 09:11:30 2019
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">stephen</m>
+<m key="dc.date">Sun Sep 15 05:27:55 2019
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="56" edit-time="35516" last-saved="1568639490" uid="baa705b2-d796-11e9-8f51-f7d55e40ae0d">
+<version id="15" started="1568539675" uid="a881c8be-d7ae-11e9-8f51-f7d55e40ae0d" auto="0" top-xid="21"/>
+<version id="16" started="1568570700" uid="554cb728-d7e3-11e9-9efa-d6d10e8d5659" auto="0" top-xid="77"/>
+<version id="19" started="1568574811" uid="d93e5708-d7ed-11e9-8a58-b08eb1489976" auto="0" top-xid="79"/>
+<version id="22" started="1568576661" uid="f3c0f3f2-d7f1-11e9-9c74-e2d64f15adfb" auto="0" top-xid="79"/>
+<version id="26" started="1568580847" uid="2a5cd0f8-d800-11e9-9151-ca9c777dbf67" auto="0" top-xid="96"/>
+<version id="51" started="1568611081" uid="60d22a12-d854-11e9-81d0-97527de8c415" auto="0" top-xid="103"/>
+<version id="56" started="1568633068" uid="7fe4dcc2-d883-11e9-8378-b789ae17b03a" auto="0" top-xid="171"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; color:000000; font-weight:normal; margin-right:0pt; text-align:left; text-decoration:none; font-size:12pt; line-height:1.0; margin-bottom:0pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="3" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="4" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="11" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="12" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="13" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="14" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="5" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="6" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="7" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c props="font-weight:bold; font-size:14pt">A  SECURIY REPORT  ABOUT  MAKERERE  UNIVERSITY  BUSINESS </c></p>
+<p style="Normal" xid="64" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="65" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c props="font-weight:bold; font-size:14pt">SCHOOL (MUBS)</c></p>
+<p style="Normal" xid="9" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="10" props="text-align:center"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="1" props="text-align:center"><c props="font-weight:bold">Plot M118, Portbell Road, P.O.Box 1337, Kampala - Uganda</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="15" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="16" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="17" props="text-align:center"><c props="font-weight:bold">6/ 09/ 2019.</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="24" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="25" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="26" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="19" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="20" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="18" props="text-align:center"><c props="font-weight:bold">By Stephen Edonga</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="23" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="22" props="text-align:center"><c props="font-weight:normal"></c><c props="font-weight:bold">A student of Clarke International University </c></p>
+<p style="Normal" xid="21" props="text-align:center"><c props="font-weight:bold">Persuing software development under the catalyst, a program of Refactory.</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="27" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="28" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="29" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="30" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="31" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="32" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="33" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="34" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="35" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="36" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="37" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="38" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="39" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="40" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="41" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="42" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="43" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="44" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="45" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="52" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="53" props="text-align:center"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="54" props="text-align:center"><c props="font-weight:bold">BACKGROUND</c></p>
+<p style="Normal" xid="187" props="text-align:center"><c></c></p>
+<p style="Normal" xid="55" props="text-align:left"><c props="font-weight:normal">	Makerere University business school is located south of Nakawa division along Portbell road neighboring Uganda Institute of Information and Communication in the south, Mbuya military barracks in the north-west.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="58" props="text-align:left"><c props="font-weight:normal">It is a public University that is , it is a government owned. MUBS is a subordinate Makerere University that has been strategized to deal with the business section of education. However there has been other courses introduced at the University.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="129" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="183" props="text-align:left"><c props="font-weight:bold">SECURITY</c></p>
+<p style="Normal" xid="186" props="text-align:left"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="59" props="text-align:left"><c props="font-weight:normal"></c><c props="font-weight:normal">	There are  aspects or areas of security and these cover physical security and non-physical security like cyber security information security. </c></p>
+<p style="Normal" xid="56" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="184" props="text-align:left"><c props="font-weight:bold">PHYSICAL SECURITY</c></p>
+<p style="Normal" xid="185" props="text-align:left"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="57" props="text-align:left"><c props="font-weight:normal"> 	Looking on the physical aspect of  its security, The Campus has a perimeter fence of 5feet tall most of which comprise of fabricated metal that widely spaced enough for a person moving along the road to see what is going on in the school campus.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="60" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="61" props="text-align:left"><c props="font-weight:normal">	In addition to physical security, the University has one main gate and  two other small gates that are not given much attention since there is always no one checking who ever goes in.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="70" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="71" props="text-align:left"><c props="font-weight:normal">	There are cameras installed all over the walls to monitor  security  both inside and outside the building. This helps to keep footage of whatever takes place in the University perimeter.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="72" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="73" props="text-align:left"><c props="font-weight:normal">	The  security </c><c props="font-weight:normal"></c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">policy the </c><c props="font-weight:normal">guards undertake at the main gate is checking for dangerous weapons on whoever is entering the University.</c></p>
+<p style="Normal" xid="75" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="77" props="text-align:left"><c props="font-weight:normal">	 Under physical security, p</c><c props="font-weight:normal"></c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">eople with disabilities must also be catered for these category include </c><c props="font-weight:normal"> the blind, deaf and lame  who so vulnerable to problems like fire out-breaks, strikes that causes instability in the school campus.</c></p>
+<p style="Normal" xid="78" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="79" props="text-align:left"><c props="font-weight:normal">	There are a number of  fire extinguishers installed almost at every conner throughout the building of the University.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="76" props="text-align:left"><c props="font-weight:normal"></c><c props="font-weight:normal">This has been installed with the aim of cubing down any instance of fire outbreaks in the University.</c></p>
+<p style="Normal" xid="74" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="66" props="text-align:left"><c props="font-weight:normal">	Looking onto the safety of things like vehicles and motor bikes, the parking yard in the campus is secure and students and lecturers confidently park since there is a wide coverage CCTV camera installed enabling the security guards to monitor the vehicles and the motor cycles.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="82" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="83" props="text-align:left"><c props="font-weight:normal">	In terms of physical security, the administrators employ police during examination times to keep out some students who have not paid their tution to the fullest thus ensuring that the rest of the students stay safe and not disturbed by other students who do not have the chance to sit for these exams.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="99" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="100" props="text-align:left"><c props="font-weight:normal">	The military barracks also brings into confidence to the administrators of sure and conc-security since they share boundaries therefore making attackers have completely no rounds to launch any serious attack</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="80" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="81" props="text-align:left"><c props="font-weight:normal">	With all these measures established, there has been little report of insecurity recorded for the past few years and stability has been maintained in line with security .</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="84" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="85" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="86" props="text-align:left"><c props="font-weight:normal"></c><c props="font-weight:bold">VULNERABILITIES</c></p>
+<p style="Normal" xid="188" props="text-align:left"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="93" props="text-align:left"><c props="font-weight:normal">However there are some vulnerabilities of the physical security of the University and these can be discussed as follows.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="117" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="94" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="96" props="text-align:left"><c props="font-weight:normal">	As i stated earlier before Makerere University Business school has many gates of which the main gate is the only one given much attention leaving the rest open for any attacks like burglary, robbery since people who are not students of the University enter freely and access the resources around with no difficulty.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="116" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="97" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="98" props="text-align:left"><c props="font-weight:normal">	Most of the students and staff of the University do not know how to use the fire extinguisher installed in the campus and in case of any fire out break there will be uncertainty of the condition in the school campus unless external support is called.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="101" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="103" props="text-align:left"><c props="font-weight:normal">	The security guards at the main gate reluctantly check for harmful weapons that may claim lives in the campus .They take time to identify if a person is a student or a stranger .This leaves the students and the surrounding at a higher risk since people who are not students freely cross through the University making short-cut to the nearby areas.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="104" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="105" props="text-align:left"><c props="font-weight:normal">	Looking to the security of the parking yard, there is no security guard monitoring the this area instead those who are at the gate are the ones responsible. Here i see that they are missing a point of tight security where a thief that has access to the building may come out as a car owner and smartly drive off. Therefore it is easy for some one to steal a vehicle from this place.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="110" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="115" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="111" props="text-align:left"><c props="font-weight:normal">	There are no humps on the roads as you approach the University .This makes if uneasy for the students to cross to the other side of the road since the vehicles come at high speed . Recently the students designed a simple zebra crossing infront of the main gate to give access to the other students to cross easily. How ever this has been undermined by the drivers since it is always not </c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="112" props="text-align:left"><c props="font-weight:normal">so clear because it is very small and are designed in dull colors that is yellow and black.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="113" props="text-align:left"><c props="font-weight:normal"> </c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="118" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="119" props="text-align:left"><c props="font-weight:normal">	Another aspect of insecurity an open-wound majorly during the evening classes where the students are rushing to attend their different classes .Here is see a possibility of insecurity since the security guards are at ease allowing these rushing students in the school campus.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="120" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="121" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="122" props="text-align:left"><c props="font-weight:bold">POSSIBLE SOLUTIONS</c></p>
+<p style="Normal" xid="189" props="text-align:left"><c></c></p>
+<p style="Normal" xid="108" props="text-align:left"><c props="font-weight:normal">	With all these threat, i therefore say security adjustment is required as per the measure i carried out. The University should carry out a security evaluation to check on their weak sides or else  </c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="109" props="text-align:left"><c props="font-weight:normal">contact me for my analysis.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="131" props="text-align:left"><c props="font-weight:normal"> 	In order to overcome and prevent these threats from hatching in to serious problems, i suggested some solutions to them and can be expressed as follows.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="133" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="106" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="132" props="text-align:left"><c props="font-weight:normal">	To ensure safety in case of any fire out break and react positively in solving it if there is any, the administration should hire fire fighters to train both the students and staff on how to use the fire extinguisher. Thereby the fire out break will be minimized in the shortest time possible.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="128" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="134" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="135" props="text-align:left"><c props="font-weight:normal">	I suggest that security guards must be added to fill in the spaces missing in the other gates that are looked upon as minor. This will help to curb down  and scare those who intend to cause attack or link up with the wrong people to access the school premises.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="136" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="137" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="138" props="text-align:left"><c props="font-weight:normal">	A zebra crossing must be designed in a way that the vehicle drivers see it from a distance that is it should be in bright colors of white and black covering a large percent of the road. This will help the students with the problem of delay in crossing to their campus.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="139" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="140" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="141" props="text-align:left"><c props="font-weight:normal">	Since steps are not favorable to  those who are lame, i see that elevators should at least be put in place to ease the movement of these lame people to ensure their safety and easy movement.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="142" props="text-align:left"><c props="font-weight:normal">Not only for the lame, elevators improves on movement by simply making it faster than moving around by the people.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="143" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="144" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="146" props="text-align:left"><c props="font-weight:normal">	I suggest that a CCTV camera be placed at the main gate to monitor the other thins that the security guards might have missed out, May be in case of triggered attacks involving connections among the staff. The camera could help store footage which makes it easy for the police to make a start point.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="145" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="147" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="149" props="text-align:left"><c props="font-weight:normal">	Students ids must be emphasized and checked before accessing the campus. This helps to kick out those interested in accessing the campus to exploit the available resources rather they leave behind at the  gate full details about them selves before they can reach out to what ever part in the campus they are interested in.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="148" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="150" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="151" props="text-align:left"><c props="font-weight:normal">	With all these in place, the security of thew campus is authenticated and more losses are minimized since no attacks will cost the University.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="152" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="153" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="154" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="155" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="156" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="157" props="text-align:left"><c props="font-weight:normal"></c><c props="font-weight:bold">NON-PHYSICAL  SECURITY (CYBER SECURITY)</c></p>
+<p style="Normal" xid="191" props="text-align:left"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="190" props="text-align:left"><c props="font-weight:normal">(</c><c props="font-weight:bold">Problems , threats and solutions</c><c props="font-weight:normal">).</c></p>
+<p style="Normal" xid="160" props="text-align:left"><c props="font-weight:normal">	The non-physical security covers network or internet(cyber-security) and data or record management.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="161" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="162" props="text-align:left"><c props="font-weight:normal">	The online system  of accessing results for the students is one of the greatest features is the university resource as network and communication is concerned. It is a web-based system of information delivery.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="171" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="170" props="text-align:left"><c props="font-weight:normal">The threat is see in this system is that any one can access the information about students and if  specifically interested in marlicing any student or causing arm to any might retrieve the information from the system. </c></p>
+<p style="Normal" xid="174" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="173" props="text-align:left"><c props="font-weight:normal">I suggest a solution that the administration need to create a system where by a student creates and account from where he/she can access the information securely online.</c></p>
+<p style="Normal" xid="164" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="165" props="text-align:left"><c props="font-weight:normal">	</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="166" props="text-align:left"><c props="font-weight:normal">	The school WiFi for the library is not authentic that is it has  a  very simple password(mubslibrary) and easy to grasp therefore extending usage to those that are not intended for to use this resource.</c><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="175" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="176" props="text-align:left"><c props="font-weight:normal">The possible problem here is that the administration will spend a lot of money in sustaining the WiFi since data consumption is beyond maximum and this is attributed to the people who have encroached in the campus.</c></p>
+<p style="Normal" xid="177" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="178" props="text-align:left"><c props="font-weight:normal">I suggesting a solution for this, i do recommend that password for the WiFi be authenticated by using both the lower and upper casing mixed with figures to easily minimize the rate at which the data is accessed from foreigners.</c></p>
+<p style="Normal" xid="167" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="168" props="text-align:left"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="169" props="text-align:left"><c props="font-weight:normal">	Some of the administrators are so friendly mostly to the students. I happen to speak to </c><c props="font-weight:bold">Jesca</c><c props="font-weight:normal"> who is one of the students of this University and from experience she told me  that some of the lecturers easily have chat with students  while at their office  and tend to forget about other security policies thereby it is easy for a student to access their details .</c></p>
+<p style="Normal" xid="179" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="180" props="text-align:left"><c props="font-weight:normal">The possible threat here is that targeted hacking is triggered and possible if a student can easily get the details of an administrator.  And also phishing is very possible to this kind of administrators since their attention towards security is less.</c></p>
+<p style="Normal" xid="181" props="text-align:left"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="182" props="text-align:left"><c props="font-weight:normal">My advice and suggestion is that a web platform which the students interact with their lecturers and administrators online. This will help reduce on unnecessary access to the offices of these administrators</c></p>
+<p style="Normal" xid="163" props="text-align:left"><c props="font-weight:bold"></c></p>
+</section>
+</abiword>
